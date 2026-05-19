@@ -1,0 +1,27 @@
+{
+  "name": "directory-analyzer",
+  "version": "1.0.0",
+  "description": "Directory analysis utility using Facade and Adapter patterns",
+  "main": "main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node main.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.41",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohara88s/neo-design-patterns-hw-05.git"
+  },
+  "keywords": [],
+  "author": "Vitalii Vasylets <mohara88s@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mohara88s/neo-design-patterns-hw-05/issues"
+  },
+  "homepage": "https://github.com/Mohara88s/neo-design-patterns-hw-05#readme"
+}
