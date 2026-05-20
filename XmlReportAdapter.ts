@@ -15,7 +15,7 @@ export class XmlReportAdapter implements ReportAdapter {
   <extensions>
 ${extXml}
   </extensions>
-</report>;
+</report>
       `;
 	}
 }
