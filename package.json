@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Mohara88s/neo-design-patterns-hw-05/issues"
   },
-  "homepage": "https://github.com/Mohara88s/neo-design-patterns-hw-05#readme"
+  "homepage": "https://github.com/Mohara88s/neo-design-patterns-hw-05#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
 }
